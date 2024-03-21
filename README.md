@@ -25,17 +25,15 @@
   - Git을 사용하여 버전 관리 및 협업 지원.
 
 ---------------------------------------------------------------------------------------------
-![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
-![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
-![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
-
-
 **기능 설계**
   - **CRUD** : 게시글 및 댓글의 생성, 조회, 수정, 삭제 기능을 구현.
   - **페이징** : 게시글 목록을 페이지별로 나누어 표시하고 사용자가 페이지를 이동할 수 있는 기능 제공.
   - **첨부파일** : 게시글에 이미지 또는 파일을 첨부할 수 있는 기능 구현.
   - **댓글** : 게시글에 댓글을 달고 조회, 수정, 삭제할 수 있는 기능 추가.
   - **필터링 구현** :  게시판 리스트에서  MBTI별 필터링 구현
+![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
+![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
+![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
 
 ---------------------------------------------------------------------------------------------
 
