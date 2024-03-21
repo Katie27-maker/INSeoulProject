@@ -1,6 +1,5 @@
 <h1>KIT 해커톤 제1회 SW 및 AI 융합 공모전 수상작(장려상)</h1>
 
-<h1>프로젝트</h1>
 <h1>"in 서울"</h1>
 <h2>Team 희희낙락</h2>
 <blockquote><h3>시연 영상</h3></blockquote>
