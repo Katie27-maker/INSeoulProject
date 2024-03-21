@@ -9,7 +9,7 @@
 <p dir="auto"><a href="https://www.youtube.com/watch?v=PpnqkfdnhoM&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=6" rel="nofollow">YouTube 보기</a></p>
 <br>
 
-<img <h1>김주희 포트폴리오</h1>
+<h1>김주희 포트폴리오</h1>
 
 <h1>프로젝트</h1>
 <a href="https://github.com/Katie27-maker/INSeoulProject">서울시 주거&문화정보 제공 서비스 <바로가기></a>
