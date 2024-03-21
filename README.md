@@ -27,7 +27,6 @@
 ---------------------------------------------------------------------------------------------
 ![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
 ![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
-![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/b262731c-60d2-410c-88bc-56bad3fd06db)
 ![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
 
 
