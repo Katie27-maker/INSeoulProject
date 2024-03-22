@@ -11,15 +11,17 @@
 </ul>
 
 ---------------------------------------------------------------------------------------------
-공허한 내용
-참여도 : 40%
-데이터 요청 및 출력 : jQuery, Ajax
-반응형 웹 화면 구성 : HTML5, CSS3, BootStrap, JavaScript, jQuery, Summernote API
-결과를 얻어오기 위한 서버 액션 : JAVA, JSP
-DB액션 처리 : MyBatis
-개발 Tool : IntelliJ IDEA Ultimate, Visual Studio Code, Apache Gradle
-협업 툴 : Git, Figma
-UX/UI : 사용자 편리를 위한 디자인 협업 툴(Figma)을 팀원들이게 제공 & 사용자 경험과 사용자 인터페이스 설계
+**공허한 내용**
+<p>참여도 : 40%</p>
+<ul>
+  <li>데이터 요청 및 출력 : jQuery, Ajax</li>
+  <li>반응형 웹 화면 구성 : HTML5, CSS3, BootStrap, JavaScript, jQuery, Summernote API</li>
+  <li>결과를 얻어오기 위한 서버 액션 : JAVA, JSP</li>
+  <li>DB액션 처리 : MyBatis</li>
+  <li>개발 Tool : IntelliJ IDEA Ultimate, Visual Studio Code, Apache Gradle</li>
+  <li>협업 툴 : Git, Figma</li>
+  <li>UX/UI : 사용자 편리를 위한 디자인 협업 툴(Figma)을 팀원들이게 제공 & 사용자 경험과 사용자 인터페이스 설계</li>
+</ul>
 
 **Frontend**
   - HTML5, CSS3, Bootstrap, jQuery를 사용하여 UI 디자인 및 개발.
@@ -31,7 +33,7 @@ UX/UI : 사용자 편리를 위한 디자인 협업 툴(Figma)을 팀원들이�
 **Backend**
   - Java 기반의 웹 애플리케이션으로 JSP를 사용하여 동적 웹 페이지 생성.
   - MySQL 데이터베이스를 사용하여 매핑.
-  - Git을 사용하여 버전 관리 및 협업 지원.
+  - Git을 사용하여 버전 관리 및 협업.
 
 ---------------------------------------------------------------------------------------------
 **기능 설계**
