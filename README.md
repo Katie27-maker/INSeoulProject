@@ -29,7 +29,7 @@
   - Figma를 사용하여 디자인 작업을 진행하고 팀원들과 협업하여 디자인을 공유 및 수정.
   - Ajax를 사용하여 비동기적으로 서버와 통신하여 부드러운 사용자 경험 제공.
   - 디자인 툴(Figma)를 활용하여 UX/UI 디자인 설계와, 팀원들과의 협업 촉진
-  - HTML5, CSS3, BootStrap, JAVA, Jqury, JSP, MySQL, Ajax, summer-note API, Git
+  - HTML5, CSS3, BootStrap, Jqury, JSP, Ajax, summer-note API, Git
 
 **Backend**
   - Java 기반의 웹 애플리케이션으로 JSP를 사용하여 동적 웹 페이지 생성.
@@ -43,6 +43,7 @@
   - **첨부파일** : 게시글에 이미지 또는 파일을 첨부할 수 있는 기능 구현.
   - **댓글** : 게시글에 댓글을 달고 조회, 수정, 삭제할 수 있는 기능 추가.
   - **필터링 구현** :  게시판 리스트에서  MBTI별 필터링 구현
+![스크린샷 2024-03-20 오전 1 43 07](https://github.com/Tomneng/INSeoulProject/assets/59760987/96eb97a2-3db1-4fa1-8dd8-f28940135c42)
 ![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
 ![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
 ![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
