@@ -3,7 +3,8 @@
 <h1>"in 서울"</h1>
 <h2>Team 희희낙락</h2>
 <blockquote><h3>시연 영상</h3></blockquote>
-<a href="https://github.com/Katie27-maker/INSeoulProject">서울시 주거&문화정보 제공 서비스 <바로가기></a>
+<a href="https://www.youtube.com/watch?v=PpnqkfdnhoM&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=6">서울시 주거&문화정보 제공 서비스 <바로가기></a>
+  
 <br>
 <h1>개요</h1>
 <ul>
