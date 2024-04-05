@@ -49,6 +49,7 @@
   
 ![스크린샷 2024-03-20 오전 1 43 07](https://github.com/Tomneng/INSeoulProject/assets/59760987/96eb97a2-3db1-4fa1-8dd8-f28940135c42)
 ![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
+![스크린샷 2024-04-06 오전 2 11 39](https://github.com/Tomneng/INSeoulProject/assets/59760987/c5fb0dca-d7e3-4568-b07c-907f14f8c410)
 ![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
 ![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
 
