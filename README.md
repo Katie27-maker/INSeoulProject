@@ -41,6 +41,7 @@
   - **첨부파일** : 게시글에 이미지 또는 파일을 첨부할 수 있는 기능 구현.
   - **댓글** : 게시글에 댓글을 달고 조회, 수정, 삭제할 수 있는 기능 추가.
   - **필터링 구현** :  게시판 리스트에서  MBTI별 필터링 구현
+  
 ![스크린샷 2024-03-20 오전 1 43 07](https://github.com/Tomneng/INSeoulProject/assets/59760987/96eb97a2-3db1-4fa1-8dd8-f28940135c42)
 ![프로젝트](https://github.com/Tomneng/INSeoulProject/assets/59760987/279ebce2-d2e9-4797-a766-790c06b7f1d1)
 ![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
