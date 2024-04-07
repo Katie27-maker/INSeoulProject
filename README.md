@@ -18,7 +18,7 @@
   <li>결과를 얻어오기 위한 서버 액션 : JAVA, JSP</li>
   <li>DB액션 처리 : MyBatis</li>
   <li>개발 Tool : IntelliJ IDEA Ultimate, Visual Studio Code, Apache Gradle</li>
-  <li>협업 툴 : Git, Figma</li>
+  <li>협업 툴 : Github, Figma</li>
   <li>UX/UI : 사용자 편리를 위한 디자인 협업 툴(Figma)을 팀원들이게 제공 & 사용자 경험과 사용자 인터페이스 설계</li>
 </ul>
 
@@ -32,7 +32,7 @@
 **Backend**
   - Java 기반의 웹 애플리케이션으로 JSP를 사용하여 동적 웹 페이지 생성.
   - MySQL 데이터베이스를 사용하여 매핑.
-  - Git을 사용하여 버전 관리 및 협업.
+  - Github을 사용하여 버전 관리 및 협업.
 
 ---------------------------------------------------------------------------------------------
 <h3>**서비스 기능 소개**</h3>
