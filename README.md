@@ -51,9 +51,6 @@
 ![화면-기록-2024-04-17-오후-3 10 30](https://github.com/Tomneng/INSeoulProject/assets/59760987/2d500f80-b58e-491d-8daa-5bcee025614e)
 ![화면-기록-2024-04-17-오후-3 35 25](https://github.com/Tomneng/INSeoulProject/assets/59760987/475a0f72-5bf1-4630-9d91-c5ab4b518e65)
 
-![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
-![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
-
 ---------------------------------------------------------------------------------------------
 
 **UX/UI 디자인 및 협업:**
