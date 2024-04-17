@@ -48,7 +48,10 @@
   - **필터링 구현** :  게시판 리스트에서  MBTI별 필터링 구현
   
 ![스크린샷 2024-03-20 오전 1 43 07](https://github.com/Tomneng/INSeoulProject/assets/59760987/96eb97a2-3db1-4fa1-8dd8-f28940135c42)
-![스크린샷 2024-04-06 오전 1 33 15](https://github.com/Tomneng/INSeoulProject/assets/59760987/17bbbc86-ff20-4b42-bdc0-96959b3cf922)
+![화면-기록-2024-04-17-오후-3 10 30](https://github.com/Tomneng/INSeoulProject/assets/59760987/2d500f80-b58e-491d-8daa-5bcee025614e)
+
+
+
 ![스크린샷 2024-04-06 오전 2 22 03](https://github.com/Tomneng/INSeoulProject/assets/59760987/77e30801-b264-4c83-bc75-8a588efe4b30)
 ![image](https://github.com/Tomneng/INSeoulProject/assets/59760987/876bccbf-78a5-43f6-847b-e0d3e756b55e)
 ![수정 화면](https://github.com/Tomneng/INSeoulProject/assets/59760987/9bd410bb-8af2-4dfc-b935-d1d5e1cab05e)
