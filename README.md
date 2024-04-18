@@ -51,7 +51,6 @@
 ![화면-기록-2024-04-17-오후-3 10 30](https://github.com/Tomneng/INSeoulProject/assets/59760987/2d500f80-b58e-491d-8daa-5bcee025614e)
 ![화면-기록-2024-04-17-오후-3 35 25](https://github.com/Tomneng/INSeoulProject/assets/59760987/475a0f72-5bf1-4630-9d91-c5ab4b518e65)
 ![화면-기록-2024-04-17-오후-4 51 08](https://github.com/Tomneng/INSeoulProject/assets/59760987/3c45a599-6712-4625-a308-061622b61805)
-![화면-기록-2024-04-18-오후-4 04 37](https://github.com/Katie27-maker/My_portfolio_website/assets/59760987/38dc4f77-1983-4459-8397-7e14f6dd9f3c)
 
 ---------------------------------------------------------------------------------------------
 
