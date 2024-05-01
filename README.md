@@ -32,7 +32,7 @@
     
   - **댓글** : 게시글에 댓글을 달고 조회, 수정, 삭제할 수 있는 구현.
   
-![스크린샷 2024-03-20 오전 1 43 07](https://github.com/Tomneng/INSeoulProject/assets/59760987/96eb97a2-3db1-4fa1-8dd8-f28940135c42)
+
 ![화면-기록-2024-04-17-오후-3 10 30](https://github.com/Tomneng/INSeoulProject/assets/59760987/2d500f80-b58e-491d-8daa-5bcee025614e)
 ![화면-기록-2024-04-17-오후-3 35 25](https://github.com/Tomneng/INSeoulProject/assets/59760987/475a0f72-5bf1-4630-9d91-c5ab4b518e65)
 ![화면-기록-2024-04-17-오후-4 51 08](https://github.com/Tomneng/INSeoulProject/assets/59760987/3c45a599-6712-4625-a308-061622b61805)
